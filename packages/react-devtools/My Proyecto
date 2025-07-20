@@ -1,0 +1,3 @@
+npx create-react-app mi-proyecto
+cd mi-proyecto
+npm start
